@@ -1,1 +1,1 @@
-This is python project I designed while teaching myself to code! It consists of a WX based GUI that allows the user to generate, store, edit, and run interval timers for workouts. It is by no means optimised, but allowed me to learn a lot about programming.
+This is a python project I designed while teaching myself to code! It consists of a WX based GUI that allows the user to generate, store, edit, and run interval timers for workouts. It is by no means optimised, but allowed me to learn a lot about programming.
