@@ -1,0 +1,6 @@
+Rufus new
+advanced
+3
+Curl and press|Plank|Press ups|Side plank|Crunches|Squats|
+40|60|30|40|30|30|
+30|30|30|30|30|30|

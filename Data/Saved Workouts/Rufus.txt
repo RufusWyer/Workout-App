@@ -1,0 +1,6 @@
+Rufus
+basic
+2
+Squats|Lunges|Press ups|
+30|30|30|
+45|45|45|
